@@ -17,9 +17,10 @@ A video showing automated testing:
 https://www.youtube.com/watch?v=402wiWS6kuw
 
 ## Installation and running
-OpenCV for python3 is required. I run my openCV installation inside a virtualenv.
+Numpy and OpenCV for python3 is required. I run my openCV installation inside a virtualenv.
 You can make sure OpenCV is working by trying:
 import cv2
+
 cv2.\_\_version\_\_
 
 Once OpenCV is working you can just run main.py with python3. You can try the automated testing with:
