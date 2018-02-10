@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=402wiWS6kuw
 ## Installation and running
 Numpy and OpenCV for python3 is required. I run my openCV installation inside a virtualenv.
 You can make sure OpenCV is working by trying:
+
 import cv2
 
 cv2.\_\_version\_\_
